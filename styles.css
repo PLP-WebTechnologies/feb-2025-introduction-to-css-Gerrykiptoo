@@ -136,3 +136,7 @@ body {
         margin: 1rem 0;
     }
 }
+/* Attribute Selector */
+[alt="Lions in Maasai Mara"] {
+    border-radius: 10px;
+  }
